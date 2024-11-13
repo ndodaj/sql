@@ -23,6 +23,7 @@
             - used for controlling access to the data in database
         - Data Manipulation Language (DML)
             - used for inserting, updating, deleting data from the database
+        - Transaction Control Language (TCL)
 
 
 # Queries
